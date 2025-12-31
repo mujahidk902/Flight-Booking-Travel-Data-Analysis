@@ -35,3 +35,14 @@ The dataset contains flight booking details including:
 - Payment Method
 - Flight Duration
 
+## 🎯 Project Objective
+To analyze flight booking data and extract meaningful insights that help understand:
+
+- Customer behavior
+- Revenue distribution
+- Popular airlines and cities
+- Payment trends
+
+##  🤝 Connect
+If you like this project or have suggestions, feel free to connect or raise an issue!
+
