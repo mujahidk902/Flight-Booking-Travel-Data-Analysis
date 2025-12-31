@@ -43,6 +43,6 @@ To analyze flight booking data and extract meaningful insights that help underst
 - Popular airlines and cities
 - Payment trends
 
-##  🤝 Connect
+## 🤝 Connect
 If you like this project or have suggestions, feel free to connect or raise an issue!
 
