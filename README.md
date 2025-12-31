@@ -23,4 +23,14 @@ The dashboard is built using **Power BI** with a focus on clean design and busin
 ## 📈 Dashboard Preview
 <img width="1299" height="729" alt="Screenshot 2025-12-31 150924" src="https://github.com/user-attachments/assets/ad8659f4-d061-4ece-9f3f-1ec59b852cf2" />
 
+## 📂 Dataset Information
+The dataset contains flight booking details including:
 
+Airline
+Departure City
+Travel Class
+Passenger Age
+Ticket Price
+Distance Travelled
+Payment Method
+Flight Duration
