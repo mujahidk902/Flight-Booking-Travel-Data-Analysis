@@ -26,11 +26,12 @@ The dashboard is built using **Power BI** with a focus on clean design and busin
 ## 📂 Dataset Information
 The dataset contains flight booking details including:
 
-• Airline
-• Departure City
-• Travel Class
-• Passenger Age
-• Ticket Price
-• Distance Travelled
-• Payment Method
-• Flight Duration
+- Airline
+- Departure City
+- Travel Class
+- Passenger Age
+- Ticket Price
+- Distance Travelled
+- Payment Method
+- Flight Duration
+
